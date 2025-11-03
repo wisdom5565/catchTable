@@ -2,18 +2,9 @@
 
 <div align="LEFT">
 <h4> 🗓️ 개발기간 2022.12.05 ~ 2023.02.14 </h4> 
-<h4> 배포 사이트 : http://3.38.50.114:8888</h4>
 </div>
 <br>
 	
-<h3>🌐 통합 개발 환경(IDE)</h3>
-<div align="LEFT">
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=INTELLIJIDEA&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-</div>
-<br>
-<br>
-
 <h3>🔗 기술 스택<br></h3>
 <div align="LEFT">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
